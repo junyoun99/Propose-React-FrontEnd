@@ -3,7 +3,7 @@
   <h3>AI기반 자세교정/평가 솔루션 Pro,pose(프로,포즈)</h3>
   <h3>React 기반 프론트엔드</h3>
 </div>
-<br><br><br><br><br>
+<br><br>
 
 
 
